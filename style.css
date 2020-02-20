@@ -1,0 +1,22 @@
+.tittle{
+background-color: brown;
+text-align: center;
+color: white;
+}
+.sunset{
+   width: 100%;
+}
+.blue {
+color: blue;
+}
+.capture{
+    text-align: center;
+}
+.img{
+    border: dashed;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
